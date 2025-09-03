@@ -1,0 +1,1 @@
+alter table Mobile_Records drop Mobile_Color;
